@@ -1,1 +1,3 @@
 
+### String s
+> s.toCharArray();
